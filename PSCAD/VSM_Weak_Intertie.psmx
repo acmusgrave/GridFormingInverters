@@ -1,0 +1,216 @@
+<Meta name="VSM_Weak_Sync">
+  <messagelist>
+    <message status="normal" label="build" groupid="400002" scope="VSM_Weak_Sync" id="1446108716" classid="MessageObj"><![CDATA[Begin compiling with PSCAD Version 5.0.2]]></message>
+    <message status="normal" label="build" groupid="100006" id="148418189" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="PVFarm_GFL_GFM_2_1" status="normal" link="1424225499" /><![CDATA[Compiling 'PVFarm_GFL_GFM_2_1'. Generating network and data files.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="470987285" /><![CDATA[A previous declaration of 'N_units' exists.]]></message>
+    <message status="warning" label="build" groupid="206501" id="1692298873" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="470987285" /><![CDATA[Signal 'N_units' has multiple imports]]></message>
+    <message status="warning" label="build" groupid="206502" id="632777836" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="SimpleSF_15_2_1" status="warning" link="769088304" /><![CDATA[Signal 'RT_3' type conversion may lose accuracy at connection 'DBLK1']]></message>
+    <message status="warning" label="build" groupid="206502" id="69573599" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="SimpleSF_15_2_1" status="warning" link="769088304" /><![CDATA[Signal 'UN' type conversion may lose accuracy]]></message>
+    <message status="normal" label="build" groupid="100006" id="1780512866" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="SimpleSF_15_2_1" status="normal" link="769088304" /><![CDATA[Compiling 'SimpleSF_15_2_1'. Generating network and data files.]]></message>
+    <message status="warning" label="build" groupid="205001" id="267779373" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:short" status="warning" link="163023944" /><![CDATA[Suspicious floating terminal at node 'NT_12'.]]></message>
+    <message status="warning" label="build" groupid="205001" id="1459441695" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:short" status="warning" link="670723099" /><![CDATA[Suspicious floating terminal at node 'NT_13'.]]></message>
+    <message status="normal" label="build" groupid="100006" id="1670572734" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="Control_12_2_1_1_1_1" status="normal" link="2079623528" /><![CDATA[Compiling 'Control_12_2_1_1_1_1'. Generating network and data files.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="2114919466" /><![CDATA[A previous declaration of 'w_type' exists.]]></message>
+    <message status="warning" label="build" groupid="206501" id="610800890" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="2114919466" /><![CDATA[Signal 'w_type' has multiple imports]]></message>
+    <message status="warning" label="build" groupid="206502" id="1875135304" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="1484487650" /><![CDATA[Signal 'Qflag' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="2065200741" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:bin_delay" status="warning" link="68770959" /><![CDATA[Signal 'RT_18' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1436417155" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:monostable" status="warning" link="719546269" /><![CDATA[Signal 'RT_18' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="956839" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:logic_mult" status="warning" link="974787406" /><![CDATA[Signal 'RT_56' type conversion may lose accuracy at connection 'IN1']]></message>
+    <message status="warning" label="build" groupid="206502" id="705858845" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:logic_mult" status="warning" link="974787406" /><![CDATA[Signal 'RT_55' type conversion may lose accuracy at connection 'IN2']]></message>
+    <message status="warning" label="build" groupid="206502" id="1598300291" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="1661532764" /><![CDATA[Signal 'Vflag' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="1334791039" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="1080201973" /><![CDATA[Signal 'w_type' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="267412184" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="1952645538" /><![CDATA[Signal 'Qflag' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="147491923" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="1977169083" /><![CDATA[Signal 'w_type' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="1160542499" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="613805548" /><![CDATA[Signal 'PQflag' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="1410944551" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="400299826" /><![CDATA[Signal 'PQflag' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="normal" label="build" groupid="100006" id="1315091293" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="EPRI_PLL_22_2_1_1_1_1" status="normal" link="1769546046" /><![CDATA[Compiling 'EPRI_PLL_22_2_1_1_1_1'. Generating network and data files.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="1611284651" /><![CDATA[A previous declaration of 'w_type' exists.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="1067503142" /><![CDATA[A previous declaration of 'w_type' exists.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="1346640256" /><![CDATA[A previous declaration of 'w_type' exists.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="2068663224" /><![CDATA[A previous declaration of 'w_type' exists.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="559762695" /><![CDATA[A previous declaration of 'w_type' exists.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="937269867" /><![CDATA[A previous declaration of 'w_type' exists.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="2098758216" /><![CDATA[A previous declaration of 'w_type' exists.]]></message>
+    <message status="warning" label="build" groupid="201500">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="1483343472" /><![CDATA[A previous declaration of 'w_type' exists.]]></message>
+    <message status="warning" label="build" groupid="206501" id="1167990640" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="1611284651" /><![CDATA[Signal 'w_type' has multiple imports]]></message>
+    <message status="warning" label="build" groupid="206501" id="1777453717" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="1067503142" /><![CDATA[Signal 'w_type' has multiple imports]]></message>
+    <message status="warning" label="build" groupid="206501" id="226508777" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="1346640256" /><![CDATA[Signal 'w_type' has multiple imports]]></message>
+    <message status="warning" label="build" groupid="206501" id="1375158301" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="2068663224" /><![CDATA[Signal 'w_type' has multiple imports]]></message>
+    <message status="warning" label="build" groupid="206501" id="157283333" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="559762695" /><![CDATA[Signal 'w_type' has multiple imports]]></message>
+    <message status="warning" label="build" groupid="206501" id="998999811" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="937269867" /><![CDATA[Signal 'w_type' has multiple imports]]></message>
+    <message status="warning" label="build" groupid="206501" id="1813926669" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="2098758216" /><![CDATA[Signal 'w_type' has multiple imports]]></message>
+    <message status="warning" label="build" groupid="206501" id="1167988798" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:import" status="warning" link="1483343472" /><![CDATA[Signal 'w_type' has multiple imports]]></message>
+    <message status="warning" label="build" groupid="206502" id="959953883" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:inv" status="warning" link="708271214" /><![CDATA[Signal 'VRT' type conversion may lose accuracy at connection 'IN']]></message>
+    <message status="warning" label="build" groupid="206502" id="134913639" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="263046887" /><![CDATA[Signal 'w_type' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="1162610586" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="866291732" /><![CDATA[Signal 'w_type' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="341215798" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="342175887" /><![CDATA[Signal 'w_type' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="2084512294" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="2075640790" /><![CDATA[Signal 'w_type' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="892610305" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:monostable" status="warning" link="1896539431" /><![CDATA[Signal 'RT_21' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1037905432" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="1252344540" /><![CDATA[Signal 'w_type' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="189198712" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="100079339" /><![CDATA[Signal 'w_type' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="1796045264" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="1659796088" /><![CDATA[Signal 'w_type' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="1187827029" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:sandhdefn" status="warning" link="946635591" /><![CDATA[Signal 'RT_96' type conversion may lose accuracy at connection 'nhold1']]></message>
+    <message status="warning" label="build" groupid="206502" id="1965759592" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:sandhdefn" status="warning" link="946635591" /><![CDATA[Signal 'VRT' type conversion may lose accuracy at connection 'nhold2']]></message>
+    <message status="warning" label="build" groupid="206502" id="1596637082" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="386240015" /><![CDATA[Signal 'w_type' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="1276608346" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="1951961609" /><![CDATA[Signal 'RT_18' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="851482276" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="850798963" /><![CDATA[Signal 'w_type' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="360856456" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="455015635" /><![CDATA[Signal 'RT_65' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="1310389713" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="master:select" status="warning" link="1730077638" /><![CDATA[Signal 'VRT' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="normal" label="build" groupid="100006" id="1622716849" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="PI_AntiWindUp_50_2_1" status="normal" link="682985886" /><![CDATA[Compiling 'PI_AntiWindUp_50_2_1'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" id="1804211146" classid="CmpNavigator">
+      <User scope="VSM_Weak_Intertie" name="Untitled_3" status="normal" link="1340511225" /><![CDATA[Compiling 'Untitled_3'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" link="61273824" id="61273824" classid="FileNavigator"><![CDATA[Generating 'C:\Users\Andrew\Documents\MASc\EECE567\GridFormingInverters\VSM_Weak_Intertie.gf46\VSM_Weak_Intertie.map'.]]><file scope="VSM_Weak_Sync">C:\Users\Andrew\Documents\MASc\EECE567\GridFormingInverters\VSM_Weak_Intertie.gf46\VSM_Weak_Intertie.map</file></message>
+    <message status="normal" label="build" groupid="100015" scope="VSM_Weak_Sync" id="1553879767" classid="MessageObj"><![CDATA[The total number of live nodes: 69]]></message>
+    <message status="normal" label="build" groupid="0" link="1211759245" id="1211759245" classid="FileNavigator"><![CDATA[Coding .mak file: 'C:\Users\Andrew\Documents\MASc\EECE567\GridFormingInverters\VSM_Weak_Intertie.gf46\\VSM_Weak_Intertie.mak']]><file scope="VSM_Weak_Sync">C:\Users\Andrew\Documents\MASc\EECE567\GridFormingInverters\VSM_Weak_Intertie.gf46\\VSM_Weak_Intertie.mak</file></message>
+    <message status="normal" label="build" groupid="100001" scope="VSM_Weak_Sync" id="88212090" classid="MessageObj"><![CDATA[Non-professional licenses are limited to a single, electrical subsystem. Subsystem splitting has been internally disabled for this simulation.]]></message>
+    <message status="normal" label="build" groupid="400000" scope="VSM_Weak_Sync" id="1334363929" classid="MessageObj"><![CDATA[Time for Compile: 1155ms  Make: 16ms]]></message>
+    <message status="normal" label="build" groupid="400000" scope="VSM_Weak_Sync" id="1206240537" classid="MessageObj"><![CDATA[Solve Time = 172ms]]></message>
+    <message status="normal" label="build" groupid="100016" scope="VSM_Weak_Sync" id="1311332230" classid="MessageObj"><![CDATA[Will execute (1): call C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat]]></message>
+    <message status="normal" label="build" groupid="100016" scope="VSM_Weak_Sync" id="274556322" classid="MessageObj"><![CDATA[Will execute (1): call "C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat"]]></message>
+    <message status="normal" label="build" groupid="100016" scope="VSM_Weak_Sync" id="1256716717" classid="MessageObj"><![CDATA[Will execute (2): make -j -f VSM_Weak_Intertie.mak]]></message>
+    <message status="normal" label="build" groupid="100016" scope="VSM_Weak_Sync" id="742526233" classid="MessageObj"><![CDATA[Will execute (2): "C:\Users\Andrew\Documents\MASc\EECE567\GridFormingInverters\VSM_Weak_Intertie.gf46\VSM_Weak_Intertie_mak.bat"]]></message>
+    <message status="normal" label="build" groupid="100005" scope="VSM_Weak_Sync" id="793591149" classid="MessageObj"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" groupid="0" scope="VSM_Weak_Sync" id="1091202815" classid="MessageObj"><![CDATA[C:\Users\Andrew\Documents\MASc\EECE567\GridFormingInverters\VSM_Weak_Intertie.gf46>call "C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat" ]]></message>
+    <message status="normal" label="build" groupid="100004" scope="VSM_Weak_Sync" id="617486155" classid="MessageObj"><![CDATA[Compiling 'DS.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="VSM_Weak_Sync" id="1878398571" classid="MessageObj"><![CDATA[Compiling 'Main.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="VSM_Weak_Sync" id="870735697" classid="MessageObj"><![CDATA[Compiling 'PVFarm_GFL_GFM_2_1.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="VSM_Weak_Sync" id="1277018267" classid="MessageObj"><![CDATA[Compiling 'SimpleSF_15_2_1.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="VSM_Weak_Sync" id="350787507" classid="MessageObj"><![CDATA[Compiling 'Control_12_2_1_1_1_1.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="VSM_Weak_Sync" id="1189998133" classid="MessageObj"><![CDATA[Compiling 'EPRI_PLL_22_2_1_1_1_1.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="VSM_Weak_Sync" id="1910923002" classid="MessageObj"><![CDATA[Compiling 'PI_AntiWindUp_50_2_1.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="0" scope="VSM_Weak_Sync" id="2066790819" classid="MessageObj"><![CDATA[gfortran.exe -c -ffree-form -fdefault-real-8 -fdefault-double-8 -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\inc" -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\windows" -O2 -Wconversion  Main.f]]></message>
+    <message status="normal" label="build" groupid="100004" scope="VSM_Weak_Sync" id="359325233" classid="MessageObj"><![CDATA[Compiling 'Untitled_3.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="0" scope="VSM_Weak_Sync" id="1467066357" classid="MessageObj"><![CDATA[gfortran.exe -c -ffree-form -fdefault-real-8 -fdefault-double-8 -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\inc" -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\windows" -O2 -Wconversion  SimpleSF_15_2_1.f]]></message>
+    <message status="normal" label="build" groupid="0" scope="VSM_Weak_Sync" id="1020674885" classid="MessageObj"><![CDATA[gfortran.exe -c -ffree-form -fdefault-real-8 -fdefault-double-8 -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\inc" -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\windows" -O2 -Wconversion  Control_12_2_1_1_1_1.f]]></message>
+    <message status="normal" label="build" groupid="0" scope="VSM_Weak_Sync" id="1663458505" classid="MessageObj"><![CDATA[gfortran.exe -c -ffree-form -fdefault-real-8 -fdefault-double-8 -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\inc" -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\windows" -O2 -Wconversion  EPRI_PLL_22_2_1_1_1_1.f]]></message>
+    <message status="normal" label="build" groupid="0" scope="VSM_Weak_Sync" id="41695608" classid="MessageObj"><![CDATA[gfortran.exe -c -ffree-form -fdefault-real-8 -fdefault-double-8 -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\inc" -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\windows" -O2 -Wconversion  PI_AntiWindUp_50_2_1.f]]></message>
+    <message status="normal" label="build" groupid="0" scope="VSM_Weak_Sync" id="462158939" classid="MessageObj"><![CDATA[gfortran.exe -c -ffree-form -fdefault-real-8 -fdefault-double-8 -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\inc" -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\windows" -O2 -Wconversion  Untitled_3.f]]></message>
+    <message status="normal" label="build" groupid="100013" scope="VSM_Weak_Sync" id="1999703031" classid="MessageObj"><![CDATA[Linking objects and libraries into binary 'VSM_Weak_Intertie.exe']]></message>
+    <message status="normal" label="build" groupid="400003" scope="VSM_Weak_Sync" id="1578998880" classid="MessageObj"><![CDATA[Finished compiling with PSCAD Version 5.0.2]]></message>
+  </messagelist>
+  <ViewContext>
+    <Window defn="VSM_Weak_Intertie:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomscale="0.75" scrollx="682" scrolly="0" />
+    <View name="PVFarm_GFL_GFM_2" zoomscale="2" scrollx="874" scrolly="269" />
+    <View name="PVFarm_GFL_GFM_2_1" zoomscale="1.5" scrollx="1115" scrolly="0" />
+    <View name="Sys_2_1" zoomscale="1.5" scrollx="1308" scrolly="144" />
+    <View name="SimpleSF_15_2" zoomscale="1.5" scrollx="460" scrolly="496" />
+    <View name="SimpleSF_15_2_1" zoomscale="2" scrollx="1195" scrolly="1167" />
+    <View name="Untitled_3" zoomscale="1.25" scrollx="0" scrolly="60" />
+    <View name="Control_12_2_1_1_1_1" zoomscale="1.25" scrollx="979" scrolly="172" />
+    <View name="EPRI_PLL_22_2_1_1_1_1" zoomscale="1.25" scrollx="521" scrolly="395" />
+    <View name="Control_12_2_1_1_1" zoomscale="1.5" scrollx="0" scrolly="0" />
+    <View name="EPRI_PLL_22_2_1_1_1" zoomscale="1.25" scrollx="700" scrolly="0" />
+    <View name="EPRI_PLL_18_1" zoomscale="1.5" scrollx="542" scrolly="17" />
+  </List>
+  <Output device="EMTDC" version="2010" date="2024/04/25" time="12:03:19.000000">
+    <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+      <Sample rate="4000.0" end="40000" />
+    </Domain>
+    <List classid="Analog">
+      <Analog name="Main(0):f_bus_1" index="1" gindex="100663297" id="142939588:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):f_bus2" index="2" gindex="100663298" id="387195232:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):P_tie" index="3" gindex="100663299" id="836516288:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0):Q_POC" index="4" gindex="100663300" id="1834564841:0" label="" dim="1" unit="MVAR" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0):P_POC" index="5" gindex="100663301" id="269268585:0" label="" dim="1" unit="MW" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0):Vrms_POC" index="6" gindex="100663302" id="807542839:0" label="" dim="1" unit="pu" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0):Igrid_POC" index="7" gindex="100663303" id="544598229:0" label="" dim="3" unit="kA" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0):Vgrid_POC" index="10" gindex="100663306" id="25587066:0" label="" dim="3" unit="kV" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Vdc_Base" index="13" gindex="100663309" id="632231745:0" label="" dim="1" unit="kV" min="0.0" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):V_dc" index="14" gindex="100663310" id="889113601:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Carrier" index="15" gindex="100663311" id="320840891:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Ppu" index="16" gindex="100663312" id="1877918710:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Qpu" index="17" gindex="100663313" id="296283418:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):P_dc" index="18" gindex="100663314" id="1929588417:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):P_PV" index="19" gindex="100663315" id="1163511769:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):I_dc" index="20" gindex="100663316" id="518779910:0" label="" dim="1" unit="kA" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):V_dc" index="21" gindex="100663317" id="988205138:0" label="" dim="1" unit="kV" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Ipv" index="22" gindex="100663318" id="1505502206:0" label="" dim="1" unit="kA" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Vpv" index="23" gindex="100663319" id="1045555276:0" label="" dim="1" unit="kV" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):VrefMPPT" index="24" gindex="100663320" id="925185649:0" label="" dim="1" unit="kV" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Iq L1" index="25" gindex="100663321" id="1057507696:0" label="" dim="1" unit="pu" min="-0.12" max="0.12" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Id L1" index="26" gindex="100663322" id="1265634411:0" label="" dim="1" unit="pu" min="-0.2" max="0.2" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Iq Reference" index="27" gindex="100663323" id="1523806398:0" label="" dim="1" unit="pu" min="-0.12" max="0.02" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Iq  Measured" index="28" gindex="100663324" id="72672030:0" label="" dim="1" unit="pu" min="-0.12" max="0.12" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Id  Measured" index="29" gindex="100663325" id="2004324776:0" label="" dim="1" unit="pu" min="-0.2" max="0.2" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Vq Measured" index="30" gindex="100663326" id="1685174694:0" label="" dim="1" unit="V" min="-300" max="300" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Id Reference" index="31" gindex="100663327" id="111122085:0" label="" dim="1" unit="pu" min="-0.1" max="0.2" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Igrid" index="32" gindex="100663328" id="1230735768:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Vd Measured" index="35" gindex="100663331" id="1314627178:0" label="" dim="1" unit="V" min="-300" max="300" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Vgrid" index="36" gindex="100663332" id="244785437:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):freq_control" index="39" gindex="100663335" id="671443599:0" label="" dim="1" unit="Hz" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):P_MPPT" index="40" gindex="100663336" id="1222319908:0" label="" dim="1" unit="MW" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Ref_Boost" index="41" gindex="100663337" id="1786059899:0" label="" dim="1" unit="kV" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Ref_a" index="42" gindex="100663338" id="1281108206:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Ref_a" index="43" gindex="100663339" id="1841966858:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Q" index="44" gindex="100663340" id="1750991979:0" label="" dim="1" unit="MVAR" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):P" index="45" gindex="100663341" id="434116531:0" label="" dim="1" unit="MW" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):Delta" index="46" gindex="100663342" id="89736466:0" label="" dim="1" unit="o" min="-90" max="90" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0):m*" index="47" gindex="100663343" id="1559207407:0" label="" dim="1" unit="" min="0" max="1" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0)\Control_12_2_1_1_1_1(Control_12_2_1_1):q-voltage" index="48" gindex="100663344" id="1811914421:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0)\Control_12_2_1_1_1_1(Control_12_2_1_1):d-voltage" index="49" gindex="100663345" id="1332926725:0" label="" dim="2" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0)\Control_12_2_1_1_1_1(Control_12_2_1_1)\EPRI_PLL_22_2_1_1_1_1(0):d_theta" index="51" gindex="100663347" id="896089603:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0)\Control_12_2_1_1_1_1(Control_12_2_1_1)\EPRI_PLL_22_2_1_1_1_1(0):Vdq" index="52" gindex="100663348" id="819893929:0" label="" dim="2" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\PVFarm_GFL_GFM_2_1(0)\SimpleSF_15_2_1(0)\Control_12_2_1_1_1_1(Control_12_2_1_1)\EPRI_PLL_22_2_1_1_1_1(0):P_Q_ref_lim" index="54" gindex="100663350" id="160701447:0" label="" dim="2" unit="" min="-2.0" max="2.0" />
+    </List>
+    <List classid="Digital" />
+  </Output>
+</Meta>
